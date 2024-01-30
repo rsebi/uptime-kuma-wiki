@@ -4,7 +4,7 @@ This is the easiest reverse proxy that I have ever seen so far!
 
 Despite a lot of reverse proxy methods in the world, unfortunately, none of them are actually easy-to-use in my opinion. As in the past, many Uptime Kuma users kept asking how to config a reverse proxy.
 
-Recently, I just discovered that Cloudflare has added a web GUI for Cloudflare Tunnel which make it super easy to use. You can expose your Uptime Kuma to the Internet without so many configs!
+Recently, I discovered that Cloudflare has added a web GUI for Cloudflare Tunnel which make it super easy to use. You can expose your Uptime Kuma to the Internet without so many configs!
 
 For Docker users, you just need to provide a Cloudflare Tunnel token in the Settings, then you can browse Uptime Kuma on the Internet. 
 
@@ -43,7 +43,7 @@ Cons:
 
 The steps are actually very simple. However, since the concept is pretty new to anyone, it may be good to write it in detail. 
 
-But trust me, once you learnt, you will remember how to config without this guide again! While for Nginx or Traefik, I never could remember how to config without googling it.
+But trust me, once you learn, you will remember how to config without this guide! While for Nginx or Traefik, I never could remember how to config without googling it.
 
 
 
